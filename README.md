@@ -1,1 +1,1306 @@
 # ESPA
+#EXTM3U
+#EXTINF:-1,##### SP - SPAIN #####
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/63846
+#EXTINF:-1,ES - LA 1 HD ◉
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21367
+#EXTINF:-1,ES - LA 2 HD ◉
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21366
+#EXTINF:-1,ES - TELECINCO HD ◉
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21362
+#EXTINF:-1,ES - TELEMADRID HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/330538
+#EXTINF:-1,ES - CANAL SUR ANDALUCÍA
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21329
+#EXTINF:-1,ES - CANAL 24 HORAS
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21361
+#EXTINF:-1,ES - 24 HORAS
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21360
+#EXTINF:-1,ES - ANTENA 3 HD ◉
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21364
+#EXTINF:-1,ES - CUATRO HD ◉
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21363
+#EXTINF:-1,ES - DMAX
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/325838
+#EXTINF:-1,ES - CNN
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/325429
+#EXTINF:-1,ES - LA SEXTA HD ◉
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21365
+#EXTINF:-1,ES - NOVA
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/43001
+#EXTINF:-1,ES - ENERGY
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21323
+#EXTINF:-1,ES -  DIVINITY
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21324
+#EXTINF:-1,ES - NEOX 
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21281
+#EXTINF:-1,ES - MEGA HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/64740
+#EXTINF:-1,ES - APUNT HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/330539
+#EXTINF:-1,ES - CASTILLA LA MANCHA MEDIA
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/330540
+#EXTINF:-1,ES - FDF
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21358
+#EXTINF:-1,ES - IBERALIA HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21355
+#EXTINF:-1,ES - HOLLYWOOD HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21356
+#EXTINF:-1,ES - CLAN TVE
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21357
+#EXTINF:-1,ES - TVE INTERNACIONAL
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21359
+#EXTINF:-1,##### ES - LOCALES #####
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/662808
+#EXTINF:-1,ES - CANAL 25 BARBASTRO
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/662785
+#EXTINF:-1,ES - TELEVISIÓN DE GALICIA AMÉRICA
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/662786
+#EXTINF:-1,ES - TELEVISIÓN DE GALICIA EUROPA
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/662787
+#EXTINF:-1,ES - SOPHIA TV
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/662788
+#EXTINF:-1,ES - POPULAR TV MELILLA
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/662789
+#EXTINF:-1,ES - TVG EVENTO 1
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/662790
+#EXTINF:-1,ES - TVG MUSIGAL
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/662791
+#EXTINF:-1,ES - TVG CULTURAL
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/662792
+#EXTINF:-1,ES - TVG INFANTIL
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/662793
+#EXTINF:-1,ES - TVG 2
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/662794
+#EXTINF:-1,ES - TVG MOMENTO
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/662795
+#EXTINF:-1,ES - LANCELOT TV
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/662796
+#EXTINF:-1,ES - CASTILLA-LA-MANCHA TV
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/662797
+#EXTINF:-1,ES - MIRAME TV
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/662798
+#EXTINF:-1,ES - TELESUR
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/662799
+#EXTINF:-1,ES - CANAL 33 MADRID HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/662800
+#EXTINF:-1,ES - CANAL MÁLAGA
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/662801
+#EXTINF:-1,ES - INTERALMERÍA TV
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/662802
+#EXTINF:-1,ES - TV GIRONA
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/662803
+#EXTINF:-1,ES - TV GALICIA
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/662804
+#EXTINF:-1,##### ES - CULTURA #####
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21286
+#EXTINF:-1,ES - NAT GEO WILD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21283
+#EXTINF:-1,ES - NAT GEO HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21284
+#EXTINF:-1,ES - NAT WILD HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21282
+#EXTINF:-1,ES - HISTORIA HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21315
+#EXTINF:-1,ES - TV GALICIA HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/499925
+#EXTINF:-1,ES - DISCOVERY
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21285
+#EXTINF:-1,ES - CAZAYPESCA HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/662004
+#EXTINF:-1,ES - CAZAYPESCA HEVC
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/662005
+#EXTINF:-1,ES - IBERALIA TV
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/662006
+#EXTINF:-1,ES - IBERALIA TV
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/662007
+#EXTINF:-1,ES - SOL
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/662008
+#EXTINF:-1,ES - ODISEA
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/662009
+#EXTINF:-1,ES - BLAZE
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/662010
+#EXTINF:-1,ES - CANAL COCINA
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/662011
+#EXTINF:-1,ES - CANAL COCINA HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/662012
+#EXTINF:-1,ES - CANAL DECASA
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/662013
+#EXTINF:-1,ES - CANAL DECASA HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/662014
+#EXTINF:-1,ES - CANAL ODISEA
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/662015
+#EXTINF:-1,ES - CLASSICA
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/662016
+#EXTINF:-1,ES - CRIMEN INVES
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/662017
+#EXTINF:-1,ES - BE MAD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/662018
+#EXTINF:-1,ES - MTV ESPANA
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/662019
+#EXTINF:-1,ES - MEZZO LIVE HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/662020
+#EXTINF:-1,ES - MEZZO LIVE HEVC
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/662021
+#EXTINF:-1,##### ES - ENTRETENIMIENTO  #####
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21345
+#EXTINF:-1,ES - CANAL COCINA HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21332
+#EXTINF:-1,ES - CANAL ODISEA
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21330
+#EXTINF:-1,ES - CANAL DECASA
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21331
+#EXTINF:-1,ES - CRIMEN Y INVES
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21325
+#EXTINF:-1,ES - CAZA Y PESCA HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21328
+#EXTINF:-1,ES - SOMOS HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/276945
+#EXTINF:-1,ES - PARAMOUNT
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21280
+#EXTINF:-1,ES - BLAZE HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21334
+#EXTINF:-1,ES - BE MAD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21335
+#EXTINF:-1,ES - ARAGON
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21339
+#EXTINF:-1,ES - #0 HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21341
+#EXTINF:-1,##### ES - MUSICA #####
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21290
+#EXTINF:-1,ES - MTV
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/345645
+#EXTINF:-1,ES - MTV 00s
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/345646
+#EXTINF:-1,ES - MEZZO LIVE HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21289
+#EXTINF:-1,ES - CLASSICA
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21327
+#EXTINF:-1,ES - MUNDO TORO
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/340632
+#EXTINF:-1,ES -  SOL MÚSICA SD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/390102
+#EXTINF:-1,ES - DISNEY JR HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21348
+#EXTINF:-1,ES - DISNEY CH HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/85235
+#EXTINF:-1,ES - BOING
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21352
+#EXTINF:-1,ES - BABY TV
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21353
+#EXTINF:-1,ES - CANAL PANDA HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21351
+#EXTINF:-1,ES - NICKELODEON  HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21346
+#EXTINF:-1,ES - DREAMWORKS
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/104876
+#EXTINF:-1,#### GOLD TV | 24/7 SPANISH ####
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655604
+#EXTINF:-1,ES - GOLD TV 24/7 | NINOS 1
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/620993
+#EXTINF:-1,ES - GOLD TV 24/7 | NINOS 2
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/620994
+#EXTINF:-1,ES - GOLD TV 24/7 |  NINOS 3
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/620995
+#EXTINF:-1,ES - GOLD TV 24/7 |  NINOS 4
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/620996
+#EXTINF:-1,ES -  GOLD TV 24/7 | BOB ESPONJA
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/621031
+#EXTINF:-1,ES - GOLD TV 24/7 | NETFLIX NINOS HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/620989
+#EXTINF:-1,##### ES - NINOS #####
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21354
+#EXTINF:-1,ES - ALQUILER 1 HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/665473
+#EXTINF:-1,ES - ALQUILER 1 HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/665474
+#EXTINF:-1,ES - ALQUILER 2 HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/665475
+#EXTINF:-1,ES - TAQUILLA 3 HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/665476
+#EXTINF:-1,ES - TAQUILLA 4 HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/665477
+#EXTINF:-1,ES - TAQUILLA 8 HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/665478
+#EXTINF:-1,ES - TAQUILLA 9 HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/665479
+#EXTINF:-1,##### ES - CINE #####
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21274
+#EXTINF:-1,ES -  A3 SERIES HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/131162
+#EXTINF:-1,ES - AXN HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21338
+#EXTINF:-1,ES - AXN HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21337
+#EXTINF:-1,ES - AXN WHITE HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21336
+#EXTINF:-1,ES - TNT UHD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/625165
+#EXTINF:-1,ES - COSMO HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21326
+#EXTINF:-1,ES - AMC HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21340
+#EXTINF:-1,ES - FOX HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21344
+#EXTINF:-1,ES - VH1
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21276
+#EXTINF:-1,ES - TCM HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21278
+#EXTINF:-1,ES - SYFY HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21279
+#EXTINF:-1,ES - DARK HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/309443
+#EXTINF:-1,ES - M+ CLASICOS
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/325889
+#EXTINF:-1,ES - COMEDY CENTRAL HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/73070
+#EXTINF:-1,ES - CALLE 13 HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21333
+#EXTINF:-1,##### GOLD TV | 24/7 SPANISH #####
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/620971
+#EXTINF:-1,ES - GOLD TV 24/7 | NETFLIX CINE + HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/620973
+#EXTINF:-1,ES - GOLD TV 24/7 | NETFLIX CINE HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/620974
+#EXTINF:-1,ES - GOLD TV 24/7 | NETFLIX DRAMA HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/620975
+#EXTINF:-1,ES - GOLD TV 24/7 | NETFLIX ESPAÑOL HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/620976
+#EXTINF:-1,ES - GOLD TV 24/7 | NETFLIX HISTORIA HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/620988
+#EXTINF:-1,ES - GOLD TV 24/7 | NETFLIX PELÍCULAS HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/620990
+#EXTINF:-1,ES - GOLD TV 24/7 | NETFLIX SCI-FI HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/620991
+#EXTINF:-1,ES - GOLD TV 24/7 | NETFLIX TELEVISION HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/620992
+#EXTINF:-1,ES - GOLD TV 24/7 | PELICULAS 1
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/620997
+#EXTINF:-1,ES - GOLD TV 24/7 | PELICULAS 2
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/620998
+#EXTINF:-1,ES - GOLD TV 24/7 | PELICULAS 3
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/620999
+#EXTINF:-1,ES - GOLD TV 24/7 | PELICULAS 4
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/621000
+#EXTINF:-1,ES - GOLD TV 24/7 | PELICULAS 5
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/621001
+#EXTINF:-1,ES - GOLD TV 24/7 | PELICULAS 6
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/621002
+#EXTINF:-1,ES - GOLD TV 24/7 | PELICULAS 7
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/621003
+#EXTINF:-1,ES - GOLD TV 24/7 | PELICULAS 8
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/621004
+#EXTINF:-1,ES - GOLD TV 24/7 | EL CHAVO DEL 8
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/621032
+#EXTINF:-1,ES - GOLD TV 24/7 | PELICULAS 9
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/621005
+#EXTINF:-1,ES - GOLD TV 24/7 | PELICULAS 10
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/621006
+#EXTINF:-1,ES - GOLD TV 24/7 | PELICULAS 11
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/621007
+#EXTINF:-1,ES - GOLD TV 24/7 | PELICULAS 12
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/621008
+#EXTINF:-1,ES - GOLD TV 24/7 | PELICULAS 13
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/621009
+#EXTINF:-1,ES - GOLD TV 24/7 | PELICULAS 14
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/621010
+#EXTINF:-1,ES - GOLD TV 24/7 | PELICULAS 15
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/621022
+#EXTINF:-1,ES - GOLD TV 24/7 | PELICULAS 16
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/621021
+#EXTINF:-1,ES - GOLD TV 24/7 | PELICULAS 17
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/621023
+#EXTINF:-1,ES - GOLD TV 24/7 | PELICULAS 18
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/621024
+#EXTINF:-1,ES - GOLD TV 24/7 | PELICULAS 19
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/621025
+#EXTINF:-1,ES - GOLD TV 24/7 | PELICULAS 20
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/621026
+#EXTINF:-1,ES - GOLD TV 24/7 | PELICULAS 21
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/621027
+#EXTINF:-1,ES - GOLD TV 24/7 | PELICULAS 22
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/621028
+#EXTINF:-1,ES - GOLD TV 24/7 | PELICULAS 23
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/621029
+#EXTINF:-1,ES - GOLD TV 24/7 | PELICULAS 24
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/621030
+#EXTINF:-1,ES - GOLD TV 24/7 | HEY ARNOLD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/621033
+#EXTINF:-1,ES - GOLD TV 24/7 | PADRE DE FAMILIA
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/621034
+#EXTINF:-1,##### ES - MOVIESTAR #####
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21307
+#EXTINF:-1,ES - MOVISTAR ORIGINALES
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/445029
+#EXTINF:-1,ES - MOVISTAR+ CINE Ñ
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/445023
+#EXTINF:-1,ES - Movistar Cine Español FHD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/445026
+#EXTINF:-1,ES - Movistar Cine Español
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/445028
+#EXTINF:-1,ES - Movistar Cine Español HEVC
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/445025
+#EXTINF:-1,ES - MOVISTAR BOM CINE
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/302909
+#EXTINF:-1,ES - MOVISTAR CRIMEN
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/302910
+#EXTINF:-1,ES - Movistar Series FHD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/591069
+#EXTINF:-1,ES - Movistar Series
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/591079
+#EXTINF:-1,ES - Movistar Series SD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/591068
+#EXTINF:-1,ES - Movistar Series 2
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/591072
+#EXTINF:-1,ES - Movistar Series 2 HEVC
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/591063
+#EXTINF:-1,ES - Movistar Series 2 SD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/591065
+#EXTINF:-1,ES - Movistar Acción FHD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/591070
+#EXTINF:-1,ES - Movistar Acción
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/591074
+#EXTINF:-1,ES - Movistar Acción SD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/390103
+#EXTINF:-1,ES - Movistar Comedia FHD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/390104
+#EXTINF:-1,ES - Movistar Comedia
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/591075
+#EXTINF:-1,ES - Movistar Comedia SD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/591066
+#EXTINF:-1,ES - Movistar Estrenos FHD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/591071
+#EXTINF:-1,ES - Movistar Estrenos
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/591076
+#EXTINF:-1,ES - Movistar Estrenos SD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/591067
+#EXTINF:-1,ES - MOVISTAR  FUTBOL FHD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/591080
+#EXTINF:-1,ES - Movistar Golf
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/591078
+#EXTINF:-1,ES - Movistar Golf HEVC
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/591064
+#EXTINF:-1,ES - M. SERIES HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21297
+#EXTINF:-1,ES - M. SERIES 2 HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/268005
+#EXTINF:-1,ES - M.SERIESMANIA HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21296
+#EXTINF:-1,ES - M. ESTRENOS HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21301
+#EXTINF:-1,ES - M.DRAMA HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21303
+#EXTINF:-1,ES - M. COMEDIA HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21304
+#EXTINF:-1,ES - M. CINE ESP HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21305
+#EXTINF:-1,ES - M. ACCION HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21306
+#EXTINF:-1,ES - M.ESTRENOS 2 HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/268004
+#EXTINF:-1,ES - M.RESISTENCIA HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/268006
+#EXTINF:-1,ES - M+ Ellas HEVC
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/390115
+#EXTINF:-1,ES - M+ SERIES HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/390101
+#EXTINF:-1,##### ES - SPORTS #####
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21322
+#EXTINF:-1,ES - DAZN LA LIGA 1 FHD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/309042
+#EXTINF:-1,ES - DAZN LA LIGA 1 FHD (Backup)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/619540
+#EXTINF:-1,ES - DAZN LA LIGA 2 HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/309043
+#EXTINF:-1,ES - DAZN F1 HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/216711
+#EXTINF:-1,ES - DAZN 1 HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/141393
+#EXTINF:-1,ES - DAZN 2 HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/141394
+#EXTINF:-1,ES - DAZN 3 HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/216709
+#EXTINF:-1,ES - DAZN 4 HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/216710
+#EXTINF:-1,ES - DAZN 1 HEVC
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/390105
+#EXTINF:-1,ES - DAZN 2 HEVC
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/390106
+#EXTINF:-1,ES - DAZN 3 HEVC
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/390107
+#EXTINF:-1,ES - DAZN 4 HEVC
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/390108
+#EXTINF:-1,ES - DAZNT Fórmula 1
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/591077
+#EXTINF:-1,ES - EUROSPORT 1 HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/76689
+#EXTINF:-1,ES - EUROSPORT 1 HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/76688
+#EXTINF:-1,ES - EUROSPORT 2 HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/76687
+#EXTINF:-1,ES - EUROSPORT 5
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/253423
+#EXTINF:-1,ES - M L CAMPEONES HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/76706
+#EXTINF:-1,ES - M L CAMPEONES 1 HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/82582
+#EXTINF:-1,ES - M L CAMPEONES 2 HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/155817
+#EXTINF:-1,ES - M L CAMPEONES 3 FHD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/155818
+#EXTINF:-1,ES - M.DEPORTES1 HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/76711
+#EXTINF:-1,ES - M. Liga de Campeones HEVC
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/390110
+#EXTINF:-1,ES - M. Liga de Campeones 3 HEVC
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/390111
+#EXTINF:-1,ES - M. Liga de Campeones 4 HEVC
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/390112
+#EXTINF:-1,ES - M. Liga de Campeones 5
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/390113
+#EXTINF:-1,ES - M. Liga de Campeones 9
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/390114
+#EXTINF:-1,ES - LA LIGA TV BAR HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/288868
+#EXTINF:-1,ES - LALIGA HYPERMOTION FHD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/497654
+#EXTINF:-1,ES - LALIGA HYPERMOTION 2 FHD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/591767
+#EXTINF:-1,ES - LALIGA HYPERMOTION TV HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/309441
+#EXTINF:-1,ES - Laliga HYPERMOTION HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/497651
+#EXTINF:-1,ES - M.LALIGA HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/76718
+#EXTINF:-1,ES - M+ Super Cupa FHD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/584569
+#EXTINF:-1,ES - M+ Super Cupa SD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/584556
+#EXTINF:-1,ES - #VAMOS HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/151588
+#EXTINF:-1,ES - #VAMOS BAR HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/309439
+#EXTINF:-1,ES - BARCA TV
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/76568
+#EXTINF:-1,ES - R. MADRID TV
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/76705
+#EXTINF:-1,ES - TELE DEPORTE HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/21291
+#EXTINF:-1,ES - M. GOLF HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/76708
+#EXTINF:-1,ES - GOL HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/76690
+#EXTINF:-1,ES - TOROS HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/76703
+#EXTINF:-1,ES - TV3 CATALAN HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/309442
+#EXTINF:-1,ES - LALIGA REPLAY INFO UHD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655460
+#EXTINF:-1,ES - LALIGA REPLAY 1 UHD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655462
+#EXTINF:-1,ES - LALIGA REPLAY 2 UHD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655463
+#EXTINF:-1,ES - LALIGA REPLAY 3 UHD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655464
+#EXTINF:-1,ES - LALIGA REPLAY 4 UHD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655465
+#EXTINF:-1,ES - LALIGA REPLAY 5 UHD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655466
+#EXTINF:-1,ES - LALIGA REPLAY 6 UHD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655467
+#EXTINF:-1,ES - LALIGA REPLAY 7 UHD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655468
+#EXTINF:-1,ES - LALIGA REPLAY 8 UHD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655469
+#EXTINF:-1,ES - LALIGA REPLAY 9 UHD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655470
+#EXTINF:-1,ES - LALIGA REPLAY 10 UHD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655471
+#EXTINF:-1,ES - LALIGA REPLAY ENGLISH 1 UHD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655472
+#EXTINF:-1,ES - LALIGA REPLAY ENGLISH 2 UHD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655473
+#EXTINF:-1,ES - LALIGA HIGHLIGHTS UHD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655461
+#EXTINF:-1,ES - FEF TV 1 FHD (Solo Eventos)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/500571
+#EXTINF:-1,ES - FEF TV 2 FHD (Solo Eventos)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/390285
+#EXTINF:-1,ES - FEF TV 3 FHD (Solo Eventos)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/390286
+#EXTINF:-1,ES - FEF TV 4 FHD (Solo Eventos)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/390287
+#EXTINF:-1,ES - FEF TV 5 FHD (Solo Eventos)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/390288
+#EXTINF:-1,ES - FEF TV 6 FHD (Solo Eventos)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/390289
+#EXTINF:-1,ES - FEF TV 7 FHD (Solo Eventos)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/504789
+#EXTINF:-1,ES - FEF TV 8 FHD (Solo Eventos)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/504790
+#EXTINF:-1,ES - FEF TV 9 FHD (Solo Eventos)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/390290
+#EXTINF:-1,ES - FEF TV 10 FHD (Solo Eventos)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/390291
+#EXTINF:-1,ES - FEF TV 11 FHD (Solo Eventos)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/390292
+#EXTINF:-1,ES - FEF TV 12 FHD (Solo Eventos)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/390293
+#EXTINF:-1,ES - FEF TV 13 FHD (Solo Eventos)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/390294
+#EXTINF:-1,ES - FEF TV 14 FHD (Solo Eventos)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/390295
+#EXTINF:-1,ES - FEF TV 15 FHD (Solo Eventos)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/390297
+#EXTINF:-1,ES - FEF TV 16 FHD (Solo Eventos)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/390298
+#EXTINF:-1,ES - FEF TV 17 FHD (Solo Eventos)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/390299
+#EXTINF:-1,ES - FEF TV 18 FHD (Solo Eventos)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/390300
+#EXTINF:-1,ES - FEF TV 19 FHD (Solo Eventos)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/390301
+#EXTINF:-1,ES - FEF TV  20 FHD (Solo Eventos)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/390302
+#EXTINF:-1,##### ES - EVENT #####
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/156328
+#EXTINF:-1,ES - M. LALIGA 1 FHD (LIVE EVENT)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/156295
+#EXTINF:-1,ES - M. LALIGA 2 FHD (LIVE EVENT)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/156297
+#EXTINF:-1,ES - M. LALIGA 3 FHD (LIVE EVENT)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/156298
+#EXTINF:-1,ES - M. LALIGA 4 (EVENT ONLY)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/156299
+#EXTINF:-1,ES - M. DEPORTE 1 HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/76716
+#EXTINF:-1,ES - M. DEPORTES 1 (EVENT ONLY)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/156304
+#EXTINF:-1,ES - M. DEPORTES 2 (EVENT ONLY)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/156305
+#EXTINF:-1,ES - M. DEPORTES 3 (EVENT ONLY)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/156306
+#EXTINF:-1,ES - M. DEPORTES 4 (EVENT ONLY)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/156307
+#EXTINF:-1,ES - M. DEPORTES 5 (EVENT ONLY)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/156308
+#EXTINF:-1,ES - M. DEPORTES 6 (EVENT ONLY)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/156309
+#EXTINF:-1,ES - M. DEPORTES 7 (EVENT ONLY)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/156310
+#EXTINF:-1,ES - M. LIGA DE CAMPEONES 1 (Match Live Only)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/178346
+#EXTINF:-1,ES - M. LIGA DE CAMPEONES 2 (Match Live Only)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/178347
+#EXTINF:-1,ES - M. LIGA DE CAMPEONES 3 (Match Live Only)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/178348
+#EXTINF:-1,ES - M. LIGA DE CAMPEONES 4 (Match Live Only)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/178349
+#EXTINF:-1,ES - M. LIGA DE CAMPEONES 5 (Match Live Only)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/178350
+#EXTINF:-1,ES - M. LIGA DE CAMPEONES 6 (Match Live Only)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/178351
+#EXTINF:-1,ES - M. LIGA DE CAMPEONES 7 (Match Live Only)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/178352
+#EXTINF:-1,ES - M. LIGA DE CAMPEONES 8 (Match Live Only)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/178353
+#EXTINF:-1,ES - M. LIGA DE CAMPEONES 9 (Match Live Only)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/288864
+#EXTINF:-1,ES - M. LIGA DE CAMPEONES 10 (Match Live Only)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/288865
+#EXTINF:-1,ES - M. LIGA DE CAMPEONES 11 (Match Live Only)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/288866
+#EXTINF:-1,ES - M. LIGA DE CAMPEONES 12 (Match Live Only)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/288867
+#EXTINF:-1,ES - RÀDIO VOLTREGÀ
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655554
+#EXTINF:-1,ES - RÀDIO VILAMAJOR
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655555
+#EXTINF:-1,ES - RÀDIO VIC 90.3
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655556
+#EXTINF:-1,ES - RÀDIO VALLS
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655557
+#EXTINF:-1,ES - RÀDIO TOT BISBAL
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655558
+#EXTINF:-1,ES - RÀDIO TÀRREGA
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655559
+#EXTINF:-1,ES - RÀDIO SABADELL
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655560
+#EXTINF:-1,ES - RÀDIO RIPOLL
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655561
+#EXTINF:-1,ES - RÀDIO RÀPITA
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655565
+#EXTINF:-1,ES - RÀDIO PUIG-REIG
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655567
+#EXTINF:-1,ES - RÀDIO PALAMÓS
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655569
+#EXTINF:-1,ES - RÀDIO PALAFRUGELL
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655572
+#EXTINF:-1,ES - RÀDIO ONA
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655574
+#EXTINF:-1,ES - RADIO OLOT
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655576
+#EXTINF:-1,ES - RÀDIO MANRESA
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655580
+#EXTINF:-1,ES - RÀDIO IGUALADA
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655582
+#EXTINF:-1,ES - RÀDIO ESTEL
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655587
+#EXTINF:-1,ES - RÀDIO CASSÀ
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655588
+#EXTINF:-1,ES - RADIO BISBAL
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655589
+#EXTINF:-1,ES - RÀDIO BEGUR
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655590
+#EXTINF:-1,ES - RÀDIO BALAGUER
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655591
+#EXTINF:-1,ES - RÀDIO BADALONA
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655592
+#EXTINF:-1,ES - RÀDIO ARRELS / FLASH
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655593
+#EXTINF:-1,ES - RÀDIO ARENYS DE MUNT
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655594
+#EXTINF:-1,ES - RÀDIO ARENYS DE MAR
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655595
+#EXTINF:-1,ES - RÀDIO 90
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655596
+#EXTINF:-1,ES - TITOIETA RÀDIO
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655551
+#EXTINF:-1,ES - RIPOLLET RÀDIO
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655553
+#EXTINF:-1,ES - LA PLANA RÀDIO
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655597
+#EXTINF:-1,ES - IB3 RÀDIO
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655598
+#EXTINF:-1,ES - AMPOSTA RÀDIO
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655600
+#EXTINF:-1,ES - ALCUDIA RÀDIO
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655601
+#EXTINF:-1,ES - TARRAGONA RÀDIO
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655552
+#EXTINF:-1,ES - El 9 FM
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655546
+#EXTINF:-1,ES - Flaix fm
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655547
+#EXTINF:-1,ES - Kiss FM
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655548
+#EXTINF:-1,ES - Pròxima fm
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655549
+#EXTINF:-1,ES - XtraFM Costa Brava
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655550
+#EXTINF:-1,ES - CUGAT RÀDIO EN DIRECTE
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655599
+#EXTINF:-1,ES - JAMMFM RADIO COSTA DEL SOL
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/655602
+#EXTINF:-1,ES - Poirot & Miss Marple
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363625
+#EXTINF:-1,ES - Pluto TV Catástrofes
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363626
+#EXTINF:-1,ES - MyPadel TV
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363627
+#EXTINF:-1,ES - TV GALICIA HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363628
+#EXTINF:-1,ES - Pluto TV K-Drama
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363629
+#EXTINF:-1,ES - Pluto TV Star Trek
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363630
+#EXTINF:-1,ES - Doctor Who
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363631
+#EXTINF:-1,ES - Sensación de Vivir (90210)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363632
+#EXTINF:-1,ES - Melrose Place
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363633
+#EXTINF:-1,ES - Los Ángeles de Charlie
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363634
+#EXTINF:-1,ES - La niñera
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363635
+#EXTINF:-1,ES - Pluto TV Telenovelas
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363636
+#EXTINF:-1,ES - BBC Drama
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363637
+#EXTINF:-1,ES - Andrómeda
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363638
+#EXTINF:-1,ES - Mutante X
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363639
+#EXTINF:-1,ES - Pluto TV Series Comedia
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363640
+#EXTINF:-1,ES - La Chica Invisible
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363641
+#EXTINF:-1,ES - Pluto TV Series
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363642
+#EXTINF:-1,ES - Las reglas del juego
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363643
+#EXTINF:-1,ES - Pluto TV Cine Estelar
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363644
+#EXTINF:-1,ES - Pluto TV Cine Acción
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363645
+#EXTINF:-1,ES - Pluto TV Horror
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363646
+#EXTINF:-1,ES - Pluto TV Sci-Fi
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363647
+#EXTINF:-1,ES - Pluto TV Cine Comedia
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363648
+#EXTINF:-1,ES - Pluto TV Western
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363649
+#EXTINF:-1,ES - Pluto TV Cine Romántico
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363650
+#EXTINF:-1,ES - Pluto TV Thrillers
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363651
+#EXTINF:-1,ES - Pluto TV Cine Drama
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363652
+#EXTINF:-1,ES - Pluto TV Cine de autor
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363653
+#EXTINF:-1,ES - Pluto TV Cine Clásico
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363654
+#EXTINF:-1,ES - Cortos
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363655
+#EXTINF:-1,ES - Runtime
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363656
+#EXTINF:-1,ES - Archivos Forenses
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363657
+#EXTINF:-1,ES - El Detective Endeavour
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363658
+#EXTINF:-1,ES - Pluto TV Investiga
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363659
+#EXTINF:-1,ES - Los nuevos detectives
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363660
+#EXTINF:-1,ES - Los archivos del FBI
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363661
+#EXTINF:-1,ES - Pluto TV Paranormal
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363662
+#EXTINF:-1,ES - Cazador de Homicidas
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363663
+#EXTINF:-1,ES - Constance Meyer: Jueza en prácticas
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363664
+#EXTINF:-1,ES - Asesinatos de Midsomer
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363665
+#EXTINF:-1,ES - El Comisario
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363666
+#EXTINF:-1,ES - Comedia made in Spain
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363667
+#EXTINF:-1,ES - Ana y los 7
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363668
+#EXTINF:-1,ES - A las once en casa
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363669
+#EXTINF:-1,ES - Curro Jiménez
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363670
+#EXTINF:-1,ES - Vaya semanita
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363671
+#EXTINF:-1,ES - El Conquistador del Fin
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363672
+#EXTINF:-1,ES - Ciudadanos por el mundo
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363673
+#EXTINF:-1,ES - En el punto de mira
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363674
+#EXTINF:-1,ES - Empeños a lo bestia
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363675
+#EXTINF:-1,ES - Ice Pilots
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363676
+#EXTINF:-1,ES - Mi Extraña Obsesión
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363677
+#EXTINF:-1,ES - Pluto TV Reality
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363678
+#EXTINF:-1,ES - El encantador de perros
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363679
+#EXTINF:-1,ES - Pluto TV Cocina
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363680
+#EXTINF:-1,ES - Pluto TV Historia
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363681
+#EXTINF:-1,ES - Pluto TV Viajes
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363682
+#EXTINF:-1,ES - Fashion TV
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363683
+#EXTINF:-1,ES - Pluto TV Fitness
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363684
+#EXTINF:-1,ES - Pluto TV Documentales
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363685
+#EXTINF:-1,ES - Nature Time
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363686
+#EXTINF:-1,ES - Pluto TV Animales
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363687
+#EXTINF:-1,ES - Top Gear
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363688
+#EXTINF:-1,ES - Pluto TV Motor
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363689
+#EXTINF:-1,ES - Tuning
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363690
+#EXTINF:-1,ES - FUEL TV
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363691
+#EXTINF:-1,ES - IGN
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363692
+#EXTINF:-1,ES - La Media Inglesa
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363693
+#EXTINF:-1,ES - Pluto TV Deportes
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363694
+#EXTINF:-1,ES - World Poker Tour
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363695
+#EXTINF:-1,ES - MTV Vergüenza ajena
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363696
+#EXTINF:-1,ES - MTV Catfish TV Show
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363697
+#EXTINF:-1,ES - MTV Jerseys
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363698
+#EXTINF:-1,ES - MTV Geordies
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363699
+#EXTINF:-1,ES - MTV Realities
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363700
+#EXTINF:-1,ES - MTV Originals
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363701
+#EXTINF:-1,ES - MTV Teen Mom
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363702
+#EXTINF:-1,ES - MTV Embarazada a los 16
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363703
+#EXTINF:-1,ES - MTV Tattoo a dos
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363704
+#EXTINF:-1,ES - MTV Cribs
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363705
+#EXTINF:-1,ES - VH1 Classics
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363706
+#EXTINF:-1,ES - MTV Music Made in Spain
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363707
+#EXTINF:-1,ES - MTV Party Music
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363708
+#EXTINF:-1,ES - MTV Urban Music
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363709
+#EXTINF:-1,ES - MTV En Vivo
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363710
+#EXTINF:-1,ES - Pluto TV K-Pop
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363711
+#EXTINF:-1,ES - Qello Concerts
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363712
+#EXTINF:-1,ES - Qwest TV
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363713
+#EXTINF:-1,ES - Clubbing TV
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363714
+#EXTINF:-1,ES - Euronews
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363715
+#EXTINF:-1,ES - CBS News
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363716
+#EXTINF:-1,ES - Chilevision Noticias
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363717
+#EXTINF:-1,ES - Telefe Noticias
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363718
+#EXTINF:-1,ES - FailArmy
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363719
+#EXTINF:-1,ES - Wipeout
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363720
+#EXTINF:-1,ES - The Pet Collective
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363721
+#EXTINF:-1,ES - People are Awesome
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363722
+#EXTINF:-1,ES - Just for Laughs
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363723
+#EXTINF:-1,ES - South Park
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363724
+#EXTINF:-1,ES - South Park Versión Original
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363725
+#EXTINF:-1,ES - Detective Conan
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363726
+#EXTINF:-1,ES - Inazuma Eleven
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363727
+#EXTINF:-1,ES - Pluto TV Anime
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363728
+#EXTINF:-1,ES - Las Tortugas Ninja
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363729
+#EXTINF:-1,ES - Avatar
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363730
+#EXTINF:-1,ES - Bob Esponja
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363731
+#EXTINF:-1,ES - Los padrinos mágicos
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363732
+#EXTINF:-1,ES - Rugrats
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363733
+#EXTINF:-1,ES - Érase una vez...
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363734
+#EXTINF:-1,ES - Pluto TV Toons Clásico
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363735
+#EXTINF:-1,ES - Winx Club
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363736
+#EXTINF:-1,ES - Pluto TV Animakids
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363737
+#EXTINF:-1,ES - Pluto TV Kids Ukraine
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363738
+#EXTINF:-1,ES - Pluto TV Junior
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363739
+#EXTINF:-1,ES - Dora la Exploradora
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363740
+#EXTINF:-1,ES - Pluto TV Kids
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363741
+#EXTINF:-1,ES - Pluto TV Teen
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363742
+#EXTINF:-1,ES - Big Time Rush
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363743
+#EXTINF:-1,ES - Pluto TV Teen Stars
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363744
+#EXTINF:-1,ES - iCarly
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/363745
+#EXTINF:-1,##### US - MUSIC #####
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/70379
+#EXTINF:-1,US - BET HER | HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/71304
+#EXTINF:-1,US - BET (West) | HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/71331
+#EXTINF:-1,US - BET (East) | HD ◉
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/280968
+#EXTINF:-1,US - BET SOUL | HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/71394
+#EXTINF:-1,US - BET JAMS | HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/71389
+#EXTINF:-1,US - MTV | HD ◉ 
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/71319
+#EXTINF:-1,US - MTV 2 | HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/71338
+#EXTINF:-1,US - MTV U | HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/71396
+#EXTINF:-1,US - MTV LIVE | HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/71397
+#EXTINF:-1,US - MTV CLASSIC | SD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/71395
+#EXTINF:-1,US - NICK MUSIC | HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/71393
+#EXTINF:-1,US - CMT | HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/71332
+#EXTINF:-1,US - FM | UHD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/71400
+#EXTINF:-1,#### MUSIC VIDEO CHANNELS ####
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/79688
+#EXTINF:-1,US - STINGRAY
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/190875
+#EXTINF:-1,US - STINGRAY HIT LIST
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/217666
+#EXTINF:-1,US - STINGRAY ROCK ALTERNATIVE
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/217667
+#EXTINF:-1,US - STINGRAY CLASSIC ROCK
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/217668
+#EXTINF:-1,US - STINGRAY REMEMBER THE 80S
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/217669
+#EXTINF:-1,US - STINGRAY FLASHBACK 70S
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/217670
+#EXTINF:-1,US - STINGRAY QELLO
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/217671
+#EXTINF:-1,US - Stingray Nature Escape
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/606204
+#EXTINF:-1,US - MC HIT LIST
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/79254
+#EXTINF:-1,US - MC TODAY
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/79273
+#EXTINF:-1,US - MC POP HITS
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/79263
+#EXTINF:-1,US - MC POP & COUNTRY
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/79262
+#EXTINF:-1,US - MC MUSIC COUNTRY HITS
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/217685
+#EXTINF:-1,US - MC MUSIC TODAYS COUNTRY
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/278636
+#EXTINF:-1,US - MC R&B SOUL
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/79266
+#EXTINF:-1,US - MC MUSIC R&B 2K
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/217677
+#EXTINF:-1,US - MC MUSIC LADIES OF R&B
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/217682
+#EXTINF:-1,US - MC MUSIC CHOICE MAX
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/217678
+#EXTINF:-1,US - MC MUSIC RAP
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/217679
+#EXTINF:-1,US - MC HIP-HOP AND R&B
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/79253
+#EXTINF:-1,US - MC DANCE/ EDM
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/79252
+#EXTINF:-1,US - MC RAP 2K
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/79268
+#EXTINF:-1,US - MC MUSIC Y2K
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/278637
+#EXTINF:-1,US - MC MUSIC 80S
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/217683
+#EXTINF:-1,US - MC MUSIC 90S
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/217672
+#EXTINF:-1,US - MC THROWBACK JAMEZ
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/79272
+#EXTINF:-1,US - MC ALTERNATIVE
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/79250
+#EXTINF:-1,US - MC BRITS + HITS
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/79251
+#EXTINF:-1,US - MC MUSIC TEEN BEATS
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/278635
+#EXTINF:-1,US - MC MUSIC KIDZ BOP
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/217681
+#EXTINF:-1,US - MC MUSIC YOUTH HITS
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/217684
+#EXTINF:-1,US - MC MUSIC LEARN & PLAY
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/217673
+#EXTINF:-1,US - MC MUSIC PRIDE
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/217675
+#EXTINF:-1,US - MC KIDS ONLY
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/79259
+#EXTINF:-1,US - MC TODDLER TUNES
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/79274
+#EXTINF:-1,US - MC MEXICANA
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/79261
+#EXTINF:-1,US - MC POP LATINO
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/79264
+#EXTINF:-1,US - MC MUSIC MUSICA URBANA
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/217680
+#EXTINF:-1,US - MC TROPICALES
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/79275
+#EXTINF:-1,US - MC ROCK
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/79269
+#EXTINF:-1,US - MC MUSIC WONDERAMA
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/217674
+#EXTINF:-1,US - Big Brother 2023 1 FHD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/639548
+#EXTINF:-1,US - Big Brother 2023 2 FHD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/639547
+#EXTINF:-1,US - Big Brother 2023 3 FHD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/639546
+#EXTINF:-1,US - OXYGEN TRUE CRIME
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/639552
+#EXTINF:-1,US - OXYGEN TRUE CRIME WEST
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/639553
+#EXTINF:-1,US - GAME SHOW NETWORK HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/561121
+#EXTINF:-1,US - Local Now
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/606201
+#EXTINF:-1,US - ION MYSTERY HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/639549
+#EXTINF:-1,US - THE BIG DISH
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/639550
+#EXTINF:-1,US - BUZZR
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/639551
+#EXTINF:-1,US -  SHO x BET HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/639554
+#EXTINF:-1,US - ESTV HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/639555
+#EXTINF:-1,US | METV+
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/640341
+#EXTINF:-1,USA - CW 21 (WTTO) BIRMINGHAM
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/657354
+#EXTINF:-1,US - ION TV FHD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/163361
+#EXTINF:-1,US - LOOP HIT MUSIC VIDEOS
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/286373
+#EXTINF:-1,#### PPV WRESTLING ####
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/79687
+#EXTINF:-1,PPV - WRESTLING 00
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/79328
+#EXTINF:-1,PPV - WRESTLING 01
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/79329
+#EXTINF:-1,PPV - WRESTLING 02
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/79330
+#EXTINF:-1,PPV - WRESTLING 03
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/79332
+#EXTINF:-1,PPV: WRESTLING 04
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/122215
+#EXTINF:-1,PPV - WRESTLING 05
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/79331
+#EXTINF:-1,LATINO - TELEMUNDO INTERNACIONAL
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/69086
+#EXTINF:-1,LATINO - TELEMUNDO (NEW YORK) | HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/194519
+#EXTINF:-1,LATINO - TELEMUNDO
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/30680
+#EXTINF:-1,US - TELEMUNDO ◉
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/71428
+#EXTINF:-1,US - TELEMUNDO HD [CHICAGO]
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/237476
+#EXTINF:-1,US - TELEMUNDO [DORAL]
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/237477
+#EXTINF:-1,US - TELEMUNDO HD [SAN DIEGO]
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/237478
+#EXTINF:-1,US - TELEMUNDO [NORTH LAS VEGAS]
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/237479
+#EXTINF:-1,US - TELEMUNDO HD [PHOENIX]
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/237480
+#EXTINF:-1,US - TELEMUNDO TELEVISION NETWORK HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/237474
+#EXTINF:-1,US - TELEMUNDO 02 (WKAQ) PUERTO RICO
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521046
+#EXTINF:-1,US - TELEMUNDO 2 (KASA) ALBUQUERQUE-SANTA FE
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521078
+#EXTINF:-1,US - TELEMUNDO 03 (KESE) YUMA
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521071
+#EXTINF:-1,US - TELEMUNDO 04 (KAJA) CORPUS CHRISTI
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521056
+#EXTINF:-1,US - TELEMUNDO 8 (KIFI) IDAHO FALLS
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521062
+#EXTINF:-1,US - TELEMUNDO 09 (WSOC) CHARLOTTE
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521049
+#EXTINF:-1,US - TELEMUNDO 10 (KWTX) WACO
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521040
+#EXTINF:-1,US - TELEMUNDO 11 (KKCO) GRAND JUNCTION
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521041
+#EXTINF:-1,US - TELEMUNDO 11 (KFFX) PENDLETON
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521070
+#EXTINF:-1,US - TELEMUNDO 13 (KRDO) COLORADO SPRINGS
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521077
+#EXTINF:-1,US - TELEMUNDO 14 (KBWF) SIOUX CITY
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521074
+#EXTINF:-1,US - TELEMUNDO 15 (KUNA) INDIO
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521066
+#EXTINF:-1,US - TELEMUNDO 17 (WRIW) RHODE ISLAND
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521073
+#EXTINF:-1,US - TELEMUNDO 19 (KFBI) MEDFORD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521064
+#EXTINF:-1,US - TELEMUNDO 20 (KQRE) BEND
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521061
+#EXTINF:-1,US - TELEMUNDO 20 (KNSD) SAN DIEGO
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521053
+#EXTINF:-1,US - TELEMUNDO 21 (KNPG) ST. JOSEPH
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521068
+#EXTINF:-1,US - TELEMUNDO 23 (WQMC) COLUMBUS
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521043
+#EXTINF:-1,US - TELEMUNDO 23 (KMUV) MONTEREY
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521065
+#EXTINF:-1,US - TELEMUNDO 24 HD [CHICO-REDDING]
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/237481
+#EXTINF:-1,US - TELEMUNDO 25 (KDEN) DENVER
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521060
+#EXTINF:-1,US - TELEMUNDO 25 (KUTU) TULSA
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521069
+#EXTINF:-1,US - TELEMUNDO 27 (KFDY) LINCOLN
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521063
+#EXTINF:-1,US - TELEMUNDO 27 (KOHA) OMAHA
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521072
+#EXTINF:-1,US - TELEMUNDO 30 HD [OKLAHOMA CITY]
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/237482
+#EXTINF:-1,US - TELEMUNDO 31 HD [HARTFORD]
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/237483
+#EXTINF:-1,US - TELEMUNDO 31 HD [ORLANDO]
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/237484
+#EXTINF:-1,US - TELEMUNDO 33 (KCSO) SACRAMENTO
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521050
+#EXTINF:-1,US - TELEMUNDO 33 (KTAS) SAN LUIS OBISPO
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521067
+#EXTINF:-1,US - TELEMUNDO 39 (KXTX) DALLAS
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521057
+#EXTINF:-1,US - TELEMUNDO 39 (KGKC) KANSAS CITY
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521079
+#EXTINF:-1,US - TELEMUNDO 40 (KTLM) RIO GRANDE CITY
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521058
+#EXTINF:-1,US - TELEMUNDO 40 (KHRR) TUCSON
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521059
+#EXTINF:-1,US - TELEMUNDO 42 HD [NEW ORLEANS]
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/237485
+#EXTINF:-1,US - TELEMUNDO 42 (KEYE) AUSTIN
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521039
+#EXTINF:-1,US - TELEMUNDO 43 (WWDT) FORT MYERS
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521055
+#EXTINF:-1,US - TELEMUNDO 44 HD [WASHINGTON DC]
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/237486
+#EXTINF:-1,US - TELEMUNDO 44 [BALTIMORE]
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/237487
+#EXTINF:-1,US - TELEMUNDO 45 (WZTD) RICHMOND
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521075
+#EXTINF:-1,US - TELEMUNDO 46 (KXTQ) LUBBOCK
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521076
+#EXTINF:-1,US - TELEMUNDO 47 (KTMD) GALVESTON
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521081
+#EXTINF:-1,US - TELEMUNDO 47 (NEW YORK)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/624228
+#EXTINF:-1,US - TELEMUNDO 47 HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/237488
+#EXTINF:-1,US - TELEMUNDO 47 [CLEVELAND]
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/237489
+#EXTINF:-1,US - TELEMUNDO 47 [ATLANTA]
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/237490
+#EXTINF:-1,US - TELEMUNDO 48 [SEATTLE]
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/237491
+#EXTINF:-1,US - TELEMUNDO 48 [SAN FRANCISCO]
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/237492
+#EXTINF:-1,US - TELEMUNDO 49 (WRMD) TAMPA
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521080
+#EXTINF:-1,US - TELEMUNDO 51 HD [MIAMI]
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/237475
+#EXTINF:-1,US - TELEMUNDO 51 (KNSO) MERCED
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521052
+#EXTINF:-1,US - TELEMUNDO 52 HD [LOS ANGELES]
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/237493
+#EXTINF:-1,US - TELEMUNDO 54 (WRTD) RALEIGH
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521042
+#EXTINF:-1,US - TELEMUNDO 60 (KVDA) SAN ANTONIO
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521051
+#EXTINF:-1,US - TELEMUNDO 60 (WNEU) MERRIMACK
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521054
+#EXTINF:-1,US - TELEMUNDO 62 HD [PHILADELPHIA]
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/237494
+#EXTINF:-1,UY - Telemundo Internacional
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/273308
+#EXTINF:-1,US - TELEMUNDO 63 (WKTC) SUMTER
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521044
+#EXTINF:-1,US - TELEMUNDO 63 (WYTU) MILWAUKEE
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521045
+#EXTINF:-1,US - LO MEJOR DE TELEMUNDO
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521047
+#EXTINF:-1,US - TELEMUNDO AL DIA
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521048
+#EXTINF:-1,US - UNIVISION  HD
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/214650
+#EXTINF:-1,US - UNIVISION 14 HD [SAN FRANCISCO]
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/237507
+#EXTINF:-1,US - UNIVISION 19 HD [SACRAMENTO]
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/237508
+#EXTINF:-1,US - UNIVISION 23 HD [MIAMI FLORIDA]
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/237506
+#EXTINF:-1,US - UNIVISION 33 HD [PHOENIX]
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/237509
+#EXTINF:-1,US - UNIVISION 34 HD [ATLANTA]
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/237510
+#EXTINF:-1,US - UNIVISION 41 HD [NEW YORK]
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/237505
+#EXTINF:-1,US - UNIVISION 41 HD [SAN ANTONIO]
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/237511
+#EXTINF:-1,US - UNIVISION 45 HD (Houston TX)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/237512
+#EXTINF:-1,US - UNIVISION 61 HD [CLEVELAND]
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/237513
+#EXTINF:-1,US - UNIVISION 65 HD [NEW JERSEY]
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/237514
+#EXTINF:-1,US - UNIVISION 65 HD [PHILADELPHIA]
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/280247
+#EXTINF:-1,US - UNIVISION 66 HD [CHICAGO]
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/237515
+#EXTINF:-1,US - UNIMAS HD [NEW YORK]
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/237495
+#EXTINF:-1,US - UNIMAS 03 (KFTU) TUCSON
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521099
+#EXTINF:-1,US - UNIMAS 04 (KSTR) IRVING
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521093
+#EXTINF:-1,US - UNIMAS 13 (KFPH) ARIZONA
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521100
+#EXTINF:-1,US - UNIMAS 17 HD [SAN ANTONIO]
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/237497
+#EXTINF:-1,US - UNIMAS 26 HD [ORLAND]
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/237498
+#EXTINF:-1,US - UNIMAS 27 (WUTF) BOSTON
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521103
+#EXTINF:-1,US - UNIMAS 28 HD [PHILADELPHIA]
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/237500
+#EXTINF:-1,US - UNIMAS 31 (KTFO) AUSTIN
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521094
+#EXTINF:-1,US - UNIMAS 33 (KDJT) SALINAS / MONTEREY
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521090
+#EXTINF:-1,US - UNIMAS 36 (KDTF) SAN DIEGO
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521092
+#EXTINF:-1,US - UNIMAS 41 (KTFQ) ALBUQUERQUE-SANTA FE
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521102
+#EXTINF:-1,US - UNIMAS 43 (WVEN) MELBOURNE
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521091
+#EXTINF:-1,US - UNIMAS 46 HD [LOS ANGELES]
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/237501
+#EXTINF:-1,US - UNIMAS 50 HD [DENVER]
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/237502
+#EXTINF:-1,US - UNIMAS 60 HD [CHICAGO]
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/237503
+#EXTINF:-1,US - UNIMAS 61 (KTFF) FRESNO/VISALIA
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521098
+#EXTINF:-1,US - UNIMAS 62 (WFTT) VENICE
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521101
+#EXTINF:-1,US - UNIMAS 64 (KTFK) SACRAMENTO
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521096
+#EXTINF:-1,US - UNIMAS 65 (KTFN) EL PASO
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521097
+#EXTINF:-1,US - UNIMAS 66 (KFSF) VALLEJO
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/521095
+#EXTINF:-1,US - UNIMAS 67 HD (HOUSTON)
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/237504
+#EXTINF:-1,US - UNIMAS 69 HD [MIAMI]
+http://goldenpro.xyz:80/PB4WMQ8/PE8NWTU/237496
